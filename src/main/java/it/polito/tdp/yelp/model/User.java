@@ -3,6 +3,7 @@ package it.polito.tdp.yelp.model;
 import java.util.Objects;
 
 public class User {
+	
 	private String userId;
 	private Integer votesFunny ;
 	private Integer votesUseful ;
